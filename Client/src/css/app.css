@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css?family=Rokkitt:400,500,700,900");
+/* ==============================
+ * BASE STYLES
+ * ============================== */
+/* ==============================
+   BASE STYLES
+   ============================== */
+* {
+  font-family: "Rokkitt", serif; }
+
+hr {
+  float: left;
+  width: 95%; }
+
+.wrapper {
+  width: 25%; }
+
+.fit_img {
+  float: left;
+  width: 346px; }
+
+.journal_pics {
+  margin-top: 3%; }
+
+.topImg {
+  overflow-y: inherit;
+  overflow-x: inherit; }
+
+#signUpSubmit {
+  margin: 1% !important;
+  width: auto !important;
+  padding: 0 5px 0 5px !important; }
+
+div.modal-content {
+  padding-bottom: 0 !important; }
+
+#signUpForm > .s6 {
+  float: right; }
+
+#signUpForm > .file-field {
+  padding-right: 0 !important; }
+
+.cancel {
+  display: inline-block !important;
+  margin: 1% !important;
+  width: auto !important;
+  padding: 0 5px 0 5px !important;
+  float: right !important; }
+
+.FriendProfile {
+  margin: 6% auto;
+  text-align: justify; }
+
+.FriendProfile h2 {
+  font-size: 2.56rem; }
+
+.FriendProfile h5 {
+  font-size: 1.8rem; }
+
+.Friend {
+  margin: 0 auto;
+  padding: 0;
+  display: inline;
+  float: left; }
+
+.row .col.s4 {
+  padding: 0; }
+
+.row .col.s3 {
+  padding: 0; }
+
+.row .col.s3 .btn {
+  margin: 40px 30%;
+  width: 35%; }
+
+.textBox h2 {
+  margin: 2% auto;
+  line-height: 110%;
+  text-align: left; }
+
+.textBox {
+  height: 356px;
+  text-align: justify;
+  padding: 2%; }
+
+.SearchCard {
+  width: 100%;
+  text-align: center;
+  border-radius: 50%; }
+
+.SearchCard img {
+  float: none;
+  border-radius: 50%; }
+
+.Pics {
+  margin: .4%;
+  float: left; }
+
+.ProfileCard {
+  text-align: center;
+  line-height: normal;
+  width: 200px;
+  float: left;
+  height: 200px; }
+
+.card {
+  margin: .5rem 1rem 1rem 0; }
+
+.parallax-container {
+  width: 100%; }
+
+.wrapper {
+  display: contents;
+  float: left; }
+
+.losFriends {
+  height: 200px;
+  margin: 14% auto; }
+
+.losEntries {
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  margin: 11% auto; }
+
+img.SearchCard {
+  width: 15%; }
+
+/* ==============================
+ * LAYOUT STYLES
+ * ============================== */
+.thefooter {
+  padding-top: 20px;
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  clear: both;
+  background-color: #F95759; }
+
+footer.page-footer {
+  padding-top: 20px;
+  position: absolute;
+  width: 100%;
+  right: 0;
+  position: initial;
+  bottom: 0;
+  left: 0;
+  clear: both;
+  background-color: #F95759; }
+
+/*# sourceMappingURL=app.css.map */
